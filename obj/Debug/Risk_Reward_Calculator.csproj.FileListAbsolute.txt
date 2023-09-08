@@ -1,0 +1,11 @@
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\bin\Debug\Risk_Reward_Calculator.exe.config
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\bin\Debug\Risk_Reward_Calculator.exe
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\bin\Debug\Risk_Reward_Calculator.pdb
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\obj\Debug\Risk_Reward_Calculator.csproj.AssemblyReference.cache
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\obj\Debug\Risk_Reward_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\obj\Debug\Risk_Reward_Calculator.Form1.resources
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\obj\Debug\Risk_Reward_Calculator.Properties.Resources.resources
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\obj\Debug\Risk_Reward_Calculator.csproj.GenerateResource.cache
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\obj\Debug\Risk_Reward_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\obj\Debug\Risk_Reward_Calculator.exe
+C:\Users\adrian\Desktop\COMMISSIONS\Risk_Reward_Calculator\obj\Debug\Risk_Reward_Calculator.pdb
